@@ -1,0 +1,18 @@
+{
+  "name": "indobet",
+  "main": "./lib/indobet",
+  "version": "0.0.0",
+  "description": "indobet merupakan situs slot 88 paling terpercaya diseluruh wilayah Indonesia. Gampang menang menjadikan link login dan daftar dari indo bet sangat laris manis",
+  "keywords": [ "indobet", "indobetslot", "indobetslot88", "indo bet", "link alternatif indobet", "link alternatif indobetslot", "link alternatif indobetslot88", "daftar indobet", "login indobet"
+  ],
+  "activationCommands": {
+    "atom-workspace": "indobet:toggle"
+  },
+  "repository": "https://github.com/Getol99/indobet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
